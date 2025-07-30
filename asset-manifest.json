@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unforgettable-chronicle/static/css/main.e6c13ad2.css",
+    "main.js": "/unforgettable-chronicle/static/js/main.71e30289.js",
+    "static/js/453.b476a1d4.chunk.js": "/unforgettable-chronicle/static/js/453.b476a1d4.chunk.js",
+    "index.html": "/unforgettable-chronicle/index.html",
+    "main.e6c13ad2.css.map": "/unforgettable-chronicle/static/css/main.e6c13ad2.css.map",
+    "main.71e30289.js.map": "/unforgettable-chronicle/static/js/main.71e30289.js.map",
+    "453.b476a1d4.chunk.js.map": "/unforgettable-chronicle/static/js/453.b476a1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71e30289.js"
+  ]
+}
